@@ -4,7 +4,8 @@ git clone https://github.com/siseveca79/Always_Music
 
 # Instalar :
 
-npm install dotenv@^16.4.5 pg@^8.11.5 --save
+npm install express dotenv pg
+
 
 
 
